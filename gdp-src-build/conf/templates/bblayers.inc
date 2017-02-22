@@ -22,6 +22,7 @@ BBLAYERS ?= " \
   ${TOPDIR}/../meta-erlang \
   ${TOPDIR}/../meta-rvi \
   ${TOPDIR}/../meta-browser \
+  ${TOPDIR}/../meta-mycroft \
   "
 
 BBLAYERS_NON_REMOVABLE ?= " \
