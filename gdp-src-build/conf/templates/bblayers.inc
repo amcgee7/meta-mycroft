@@ -15,10 +15,11 @@ BBLAYERS ?= " \
   ${TOPDIR}/../meta-openembedded/meta-filesystems \
   ${TOPDIR}/../meta-openembedded/meta-ruby \
   ${TOPDIR}/../meta-openembedded/meta-gnome \
+  ${TOPDIR}/../meta-openembedded/meta-python \
   ${TOPDIR}/../meta-qt5 \
   ${TOPDIR}/../meta-genivi-dev/meta-genivi-dev \
-  ${TOPDIR}/../meta-rust \
   ${TOPDIR}/../meta-oic \
+  ${TOPDIR}/../meta-iot-web \
   ${TOPDIR}/../meta-erlang \
   ${TOPDIR}/../meta-rvi \
   ${TOPDIR}/../meta-browser \
